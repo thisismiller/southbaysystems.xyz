@@ -25,9 +25,11 @@ Speakers will share their experience building, debugging, testing, and maintaini
 
 ## Stay in the loop
 
+Join on [lu.ma/southbaysystems](https://lu.ma/southbaysystems) and 
+follow [South Bay Systems on bluesky](https://bsky.app/profile/southbaysystems.xyz)
+to stay informed on future events.
 
 ## Brought to you by
-
 
 ## Kindred spirits
 
