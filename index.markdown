@@ -31,6 +31,10 @@ to stay informed on future events.
 
 ## Brought to you by
 
+[Alex Miller](https://bsky.app/profile/alexmillerdb.bsky.social),
+[Qian Li](https://bsky.app/profile/qianli.dev),
+and [Yingjun Wu](https://x.com/YingjunWu).
+
 ## Kindred spirits
 
 * [San Francisco Systems Club](https://www.sfsystemsclub.com/)
