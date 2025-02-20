@@ -19,9 +19,9 @@ Speakers will share their experience building, debugging, testing, and maintaini
 
 ## Schedule
 
-| Date | Speaker | Artifacts |
-| --- | --- | --- |
-| TBD | TBD | |
+| Date | Event | Speaker | Artifacts |
+| --- | --- | --- | --- |
+| March 11th, 2024 | [It's Time to Replace TCP in the Datacenter](https://lu.ma/vcwd7npw) | [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php) | |
 
 ## Stay in the loop
 
