@@ -23,6 +23,8 @@ Speakers will share their experience building, debugging, testing, and maintaini
 | --- | --- | --- | --- |
 | March 11th, 2025 | [It's Time to Replace TCP in the Datacenter](https://lu.ma/vcwd7npw) | [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php) | |
 
+Interested in giving a talk?  [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLScUuQPopRKbf2iRKGMtHQmU9s6UHbpbHcfbNvfekp-PvH0UOg/viewform)
+
 ## Stay in the loop
 
 Join on [lu.ma/southbaysystems](https://lu.ma/southbaysystems) and 
