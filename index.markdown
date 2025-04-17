@@ -21,6 +21,7 @@ Speakers will share their experience building, debugging, testing, and maintaini
 
 | Date | Event | Speaker | Artifacts |
 | --- | --- | --- | --- |
+| April 23rd, 2025 | [Wrangling Data with DuckDB](https://lu.ma/ri5kt4vt) | [Hannes Mühleisen](https://hannes.muehleisen.org/) | |
 | March 11th, 2025 | [It's Time to Replace TCP in the Datacenter](https://lu.ma/vcwd7npw) | [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php) | [recording](https://youtu.be/Nh-WZZi-Zic) |
 
 Interested in giving a talk?  [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLScUuQPopRKbf2iRKGMtHQmU9s6UHbpbHcfbNvfekp-PvH0UOg/viewform)
