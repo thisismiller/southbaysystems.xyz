@@ -51,3 +51,4 @@ and [Yingjun Wu](https://x.com/YingjunWu).
 * [Berlin Systems Group](https://berlinsystems.xyz/)
 * [Systems from HEL](https://helsystems.xyz/)
 * [Bengaluru Systems Meetup](https://twitter.com/BengaluruSys)
+* [Seattle Systems](https://seattlesystems.xyz/)
