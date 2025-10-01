@@ -21,6 +21,7 @@ Speakers will share their experience building, debugging, testing, and maintaini
 
 | Date | Event | Speaker | Artifacts |
 | --- | --- | --- | --- |
+| October 2nd, 2025 | [WebAssembly Is Cool! (finally!)](https://luma.com/p3mibf27) | [Jakob Heuser](https://www.linkedin.com/in/jakobheuser/) |
 | August 6th, 2025 | [ChatGPT Ain’t Got $%@& On Me! The Future of Automated Database Tuning](https://lu.ma/ha0dc4nj) | [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/) | [recording](https://youtu.be/Xdg310sivqI)|
 | July 22nd, 2025 | [Speedrunning the Lakehouse](https://lu.ma/5zcpbae9) | [Jacopo Tagliabue](https://www.linkedin.com/in/jacopotagliabue/) | [slides](/files/SpeedrunningFaaSLakehouse.pdf) |
 | April 23rd, 2025 | [Wrangling Data with DuckDB](https://lu.ma/ri5kt4vt) | [Hannes Mühleisen](https://hannes.muehleisen.org/) | [slides](/files/WranglingDataWithDuckDB.pdf) |
