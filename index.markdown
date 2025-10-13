@@ -21,6 +21,7 @@ Speakers will share their experience building, debugging, testing, and maintaini
 
 | Date | Event | Speaker | Artifacts |
 | --- | --- | --- | --- |
+| October 27th, 2025| [Apache Pinot on Object Storage](https://luma.com/9o6bahgc) <br /> [Variants in Apache Doris](https://luma.com/9o6bahgc) | [Songqiao Su](https://www.linkedin.com/in/songqiao-su-78516471/) & [Raghvendra Yadav](https://www.linkedin.com/in/raghvendra-yadav-b996a520/) <br /> [Owen Xiao](https://www.linkedin.com/in/owen-xiao/) | |
 | October 2nd, 2025 | [WebAssembly Is Cool! (finally!)](https://luma.com/p3mibf27) | [Jakob Heuser](https://www.linkedin.com/in/jakobheuser/) | [recording](https://www.twitch.tv/videos/2584553684) <br /> [slides](/files/WebAssemblyIsCool.pdf) |
 | August 6th, 2025 | [ChatGPT Ain’t Got $%@& On Me! The Future of Automated Database Tuning](https://lu.ma/ha0dc4nj) | [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/) | [recording](https://youtu.be/Xdg310sivqI)|
 | July 22nd, 2025 | [Speedrunning the Lakehouse](https://lu.ma/5zcpbae9) | [Jacopo Tagliabue](https://www.linkedin.com/in/jacopotagliabue/) | [slides](/files/SpeedrunningFaaSLakehouse.pdf) |
