@@ -40,6 +40,7 @@ to stay informed on future events.
 
 [Qian Li](https://bsky.app/profile/qianli.dev),
 [Alex Miller](https://bsky.app/profile/alexmillerdb.bsky.social),
+[Ben Owad](https://bowad.net),
 [Oussama Saoudi](https://www.linkedin.com/in/oussama-saoudi/),
 [Vishwanath Seshagiri](https://www.linkedin.com/in/vishwanath-seshagiri),
 and [Yingjun Wu](https://x.com/YingjunWu).
