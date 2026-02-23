@@ -21,6 +21,7 @@ Speakers will share their experience building, debugging, testing, and maintaini
 
 | Date | Event | Speaker | Artifacts |
 | --- | --- | --- | --- |
+| February 27th, 2026 | [File and Storage Technologies](https://luma.com/oqu0l8st) | [Swapnil Pimpale](https://www.linkedin.com/in/swapnil-pimpale/) & [Jimmy Yang](https://www.linkedin.com/in/jimmy-yang-6a7a0b12/) & [Ilya Meignan--Masson](https://ilya-meignan--masson.me/) | |
 | January 21st, 2026 | [Innovative Data Systems Research](https://luma.com/8a54z94d) | [Pınar Tözün](https://www.pinartozun.com/) & [Maximilian Kuschewski](https://www.cs.cit.tum.de/dis/team/maximilian-kuschewski/) & [Alexander Baumstark](https://www.linkedin.com/in/alexander-baumstark-abc123/) | |
 | November 19th, 2025 | [Morel & Query Optimization as a Service](https://luma.com/xygolo9c) | [Julian Hyde](https://www.linkedin.com/in/julianhyde) & [Yuanyuan Tian](https://humming80.github.io/) | [slides](/files/Morel.pdf) & [slides](/files/QueryOptimizationAsAService.pdf) |
 | October 27th, 2025| [Apache Pinot on Object Storage](https://luma.com/9o6bahgc) <br /> [Variants in Apache Doris](https://luma.com/9o6bahgc) | [Songqiao Su](https://www.linkedin.com/in/songqiao-su-78516471/) & [Raghvendra Yadav](https://www.linkedin.com/in/raghvendra-yadav-b996a520/) <br /> [Owen Xiao](https://www.linkedin.com/in/owen-xiao/) | [recording](https://youtu.be/f1bz3efUJpM) |
