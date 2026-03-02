@@ -60,3 +60,5 @@ and [Yingjun Wu](https://x.com/YingjunWu).
 * [Bengaluru Systems Meetup](https://twitter.com/BengaluruSys)
 * [Seattle Systems](https://seattlesystems.xyz/)
 * [Madison Systems](https://madisonsystems.xyz/)
+* [Ottawa Systems](https://ottawasystems.xyz/)
+* [Montreal Systems](https://montreal.systems/)
