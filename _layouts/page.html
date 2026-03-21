@@ -4,11 +4,27 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <link rel="alternate" type="application/atom+xml"
+          title="South Bay Systems" href="/atom.xml">
     <!--
     <link rel="stylesheet" href="https://unpkg.com/axist@latest/dist/axist.min.css" />
     -->
+    <style>
+      body { position: relative; }
+      .feed-link {
+        position: absolute;
+        top: 1rem;
+        right: 0;
+        line-height: 0;
+        opacity: 0.6;
+      }
+      .feed-link:hover { opacity: 1; }
+    </style>
   </head>
   <body>
+    <a class="feed-link" href="/atom.xml" title="Atom feed">
+      <img src="/rss.svg" alt="Feed" width="16" height="16">
+    </a>
     {{ content }}
   </body>
 </html>
