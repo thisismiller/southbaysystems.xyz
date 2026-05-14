@@ -42,10 +42,12 @@ Join on [lu.ma/southbaysystems](https://lu.ma/southbaysystems) and
 follow [South Bay Systems on bluesky](https://bsky.app/profile/southbaysystems.xyz)
 to stay informed on future events.
 
+However, we've far surpassed the number of emails we can send out on Luma. Until we figure out a mailing list solution, please follow the organizers on social media. This page also has an [RSS Feed](https://southbaysystems.xyz/atom.xml) that updates when new events are posted or recordings/slides from previous events are released.
+
 ## Brought to you by
 
 [Qian Li](https://bsky.app/profile/qianli.dev),
-[Alex Miller](https://bsky.app/profile/alexmillerdb.bsky.social),
+[Alex Miller](https://transactional.blog/about.html),
 [Ben Owad](https://bowad.net),
 [Oussama Saoudi](https://www.linkedin.com/in/oussama-saoudi/),
 and [Vishwanath Seshagiri](https://www.linkedin.com/in/vishwanath-seshagiri).
