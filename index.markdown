@@ -61,7 +61,7 @@ and [Vishwanath Seshagiri](https://www.linkedin.com/in/vishwanath-seshagiri).
 * [Munich Database Meetup](https://munichdatabases.xyz/)
 * [Berlin Systems Group](https://berlinsystems.xyz/)
 * [Systems from HEL](https://helsystems.xyz/)
-* [Bengaluru Systems Meetup](https://twitter.com/BengaluruSys)
+* [Bengaluru Systems Meetup](https://hasgeek.com/bengalurusystemsmeetup/cfp/)
 * [Seattle Systems](https://seattlesystems.xyz/)
 * [Madison Systems](https://madisonsystems.xyz/)
 * [Ottawa Systems](https://ottawasystems.xyz/)
