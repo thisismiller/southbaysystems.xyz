@@ -21,6 +21,7 @@ Speakers will share their experience building, debugging, testing, and maintaini
 
 | Date | Event | Speaker | Artifacts |
 | --- | --- | --- | --- |
+| June 26th, 2026 | [Caching & Clustering](https://luma.com/ogvfeacv) | [Yao Yue](https://yaoyue.org/) & [Eric Liang](https://www.linkedin.com/in/eric-l-31308019/) | |
 | May 26th, 2026 | [Queues & RDBMS Extensibility](https://luma.com/3j9twotu) | [Himank Chaudhary](https://www.linkedin.com/in/himankchaudhary/) & [Steve Schirripa](https://www.linkedin.com/in/steve-schirripa-99a1651/) | [recording](https://youtu.be/9LiSWbRASKc) |
 | April 30th, 2026 | [A Simple Guide to Sea of Nodes](https://luma.com/nnq9aq27) | [Cliff Click](https://github.com/cliffclick) | [recording](https://youtu.be/BG1zqnTGpyc) |
 | March 31st, 2026 | [Consensus & Full Text Search](https://luma.com/2g3exvjw) | [Sugu Sougoumarane](https://sougou.io/about/) & [Stu Hood](https://www.linkedin.com/in/stu-hood-6b65633/) | [recording](https://youtu.be/TeFsBVIYBis) |
